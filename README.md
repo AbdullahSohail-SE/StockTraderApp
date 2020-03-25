@@ -1,4 +1,4 @@
-# projeckt
+# Stock Trader App
 
 > A Vue.js project
 
